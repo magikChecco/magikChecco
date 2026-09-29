@@ -1,18 +1,17 @@
 # Hi, I’m Francesco
 
-I use GitHub to document my learning and develop practical web projects.
+I’m a Responsible AI student at [OPIT — Open Institute of Technology](https://www.opit.com/) and a Management graduate.
 
-My focus is on building clear web interfaces, strengthening my programming skills, and turning ideas into working prototypes.
+My technical focus is **Python and machine learning**. I’m developing my skills through study and hands-on work, with an interest in how AI can be applied responsibly to practical problems and business decisions.
 
-## Technologies
+## Focus areas
 
-- TypeScript
-- HTML
+- **Python** for programming and experimentation
+- **Machine learning** as my main technical direction
+- **Responsible AI**, connecting technical development with its impact on people and organizations
 
-## Web projects
+## Background
 
-- [Viaggio Origine](https://github.com/magikChecco/Landing-Page-viaggio-Origine_1) — a landing-page project built with TypeScript.
+My education in Management shapes how I approach technology: understanding the problem, considering its business context, and evaluating the implications of a solution.
 
-## Learning and development
-
-This profile brings together my public projects and learning progress. I aim to make each project easy to understand, with clear documentation and a practical purpose.
+I use GitHub to document my learning and build a portfolio around Python, machine learning, and responsible AI.
